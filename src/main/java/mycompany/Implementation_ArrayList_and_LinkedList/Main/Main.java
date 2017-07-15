@@ -6,8 +6,6 @@ import mycompany.Implementation_ArrayList_and_LinkedList.List.Iterator.Iterator;
 import mycompany.Implementation_ArrayList_and_LinkedList.List.LinkedList.LinkedList;
 import mycompany.Implementation_ArrayList_and_LinkedList.List.List;
 
-import java.util.Arrays;
-
 //import java.util.*;
 
 /**
